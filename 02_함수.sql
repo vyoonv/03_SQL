@@ -94,21 +94,21 @@ WHERE MOD(EMP_ID, 2) = 1;
 -- WHERE MOD(EMP_ID, 2)!= 0; 
 -- WHERE MOD(EMP_ID, 2) <> 0; 
 
---ROUND(숫자|컬럼명 [, 소수점 위치]) : 반올림 
+-- ROUND(숫자|컬럼명 [, 소수점 위치]) : 반올림 
 
-SELECT ROUND(123.456) FROM DUAL; --123, 소수점 첫 번째 자리에서 반올림
+SELECT ROUND(123.456) FROM DUAL; -- 123, 소수점 첫 번째 자리에서 반올림
 
-SELECT ROUND(123.456, 1) FROM DUAL; --123.5, 소수점 두 번째 자리에서 반올림
+SELECT ROUND(123.456, 1) FROM DUAL; -- 123.5, 소수점 두 번째 자리에서 반올림
 																			--> 두 번째 자리에서 반올림해서 
 																			-- 소수점 한 자리만 표현 
 
-SELECT  ROUND(123.456, 0) FROM DUAL; --소수점 첫 번째 자리에서 반올림(0 기본값)
+SELECT ROUND(123.456, 0) FROM DUAL; -- 소수점 첫 번째 자리에서 반올림(0 기본값)
 
 SELECT ROUND(123.456, -1) FROM DUAL; -- 소수점 0번째 자리에서 반올림해서 
 																		 -- 소수점 -1자리 표현
 																		 -- 1의 자리에서 반올림해서 10의자리부터 표현  
 
-SELECT ROUND(123.456, -2) FROM DUAL; --10의 자리에서 반올림해서 100의 자리부터 표현 
+SELECT ROUND(123.456, -2) FROM DUAL; -- 10의 자리에서 반올림해서 100의 자리부터 표현 
 
 -- CEIL(숫자 | 컬럼명) : 올림
 -- FLOOR(숫자 | 컬럼명) : 내림 
@@ -234,6 +234,7 @@ SELECT TO_CHAR(SYSDATE, 'YYYY"년" MM"월" DD"일" (DY)') FROM DUAL;
 
 
 --------------------------------------------------------------------------------
+
 
 /* 날짜로 변환 TO_DATE */
 
@@ -361,11 +362,11 @@ FROM EMPLOYEE;
 SELECT SUM(SALARY) FROM EMPLOYEE; 
 
 
---AVG(숫자가 기록된 컬럼명) : 평균
---전직원의 급여 평균
+-- AVG(숫자가 기록된 컬럼명) : 평균
+-- 전직원의 급여 평균
 SELECT ROUND(AVG(SALARY)) FROM EMPLOYEE ; 
 
---부서 코드가 'D9'인 사원들의 급여 합, 평균
+-- 부서 코드가 'D9'인 사원들의 급여 합, 평균
 SELECT SUM(SALARY), ROUND(AVG(SALARY)) 
 FROM EMPLOYEE
 WHERE DEPT_CODE = 'D9'; 
