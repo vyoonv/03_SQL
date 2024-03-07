@@ -151,7 +151,7 @@ ORDER BY 1;
 
 /* 집합 연산자 SET OPERATOR 
 
--- 여러 SELECT의 결과(RESULT SET)를 하나의 결과로 만드는 연산자 
+- 여러 SELECT의 결과(RESULT SET)를 하나의 결과로 만드는 연산자 
 
 - UNION (합집합) : 두 SELECT 결과를 하나로 합침, 단 중복은 한 번만 작성 
 
