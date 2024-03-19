@@ -136,7 +136,7 @@ SELECT * FROM kh_jyh.EMPLOYEE;
 GRANT SELECT ON EMPLOYEE TO jyh_sample; 
 
 -- 3. (sample) 다시 EMPLOYEE 조회 
-SELECT * FROM kh_jyh.EMPLOYEE;
+SELECT * FROM kh_jyh.EMPLOYEE; 
 
 
 -- 4. (KH) sample 계정에 부여한 EMPLOYEE 테이블 조회 권한 회수 (REVOKE)
@@ -148,7 +148,6 @@ REVOKE SELECT ON EMPLOYEE FROM jyh_sample;
 -- 5. (sample) 권한 회수 확인 
 SELECT * FROM kh_jyh.EMPLOYEE;
 -- ORA-00942: 테이블 또는 뷰가 존재하지 않습니다
-
 
 
 
