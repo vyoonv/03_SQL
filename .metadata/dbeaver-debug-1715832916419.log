@@ -1,0 +1,1338 @@
+2024-05-14 09:57:40.370 - DBeaver 23.3.5.202402181738 is starting
+2024-05-14 09:57:40.371 - OS: Windows 10 10.0 (amd64)
+2024-05-14 09:57:40.371 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2024-05-14 09:57:40.371 - Install path: 'C:\tools\dbeaver'
+2024-05-14 09:57:40.371 - Instance path: 'file:/C:/workspace/03_SQL/'
+2024-05-14 09:57:40.372 - Memory available 64Mb/1024Mb
+2024-05-14 09:57:40.381 - Create display
+2024-05-14 09:57:40.448 - Initialize desktop platform...
+2024-05-14 09:57:40.528 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.200.v20231102-0934]
+> Start Core Resource Management [org.eclipse.core.resources 3.20.0.v20231102-0934]
+> Start 팀 지원 핵심 [org.eclipse.team.core 3.10.200.v20231106-1240]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.125.202402181738]
+2024-05-14 09:57:40.742 - Initialize base platform...
+2024-05-14 09:57:40.764 - Platform initialized (316ms)
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.125.202402181738]
+2024-05-14 09:57:40.794 - Starting instance server at http://localhost:56853
+2024-05-14 09:57:40.813 - Run workbench
+> Start Eclipse e4 작업영역 SWT [org.eclipse.e4.ui.workbench.swt 0.17.200.v20231030-2045]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.200.v20231103-2012]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.200.v20231030-2045]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.200.v20231030-2045]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.200.v20231030-2045]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.200.v20231108-1058]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.36.0.v20231002-1156]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.200.v20230913-1724]
+> Start Eclipse e4 작업영역 기능 추가 [org.eclipse.e4.ui.workbench.addons.swt 1.5.200.v20231106-1600]
+> Start Eclipse e4 작업영역 SWT 렌더러 [org.eclipse.e4.ui.workbench.renderers.swt 0.16.200.v20231030-2045]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.100.v20231103-2012]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.200.v20231025-0632]
+> Start jna [com.sun.jna 5.13.0.v20230812-1000]
+Warning: NLS unused message: BlockedJobsDialog_UserInterfaceTreeElement in: org.eclipse.ui.internal.progress.messages
+2024-05-14 09:57:45.448 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.115.202402181738]
+2024-05-14 09:57:45.568 - Total database drivers: 112 (112)
+> Start 도움말 시스템 코어 [org.eclipse.help 3.10.200.v20231106-1240]
+2024-05-14 09:57:45.662 - Create actions
+2024-05-14 09:57:45.668 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-05-14 09:57:45.668 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-05-14 09:57:45.668 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2024-05-14 09:57:45.890 - Initialize workbench window
+2024-05-14 09:57:45.894 - Finish initialization
+> Start 기본 문서 편집기 [org.eclipse.ui.editors 3.17.100.v20231106-1600]
+> Start 텍스트 편집기 프레임워크 [org.eclipse.ui.workbench.texteditor 3.17.200.v20231106-1600]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.125.202402181738]
+> Start 인터넷 연결 관리 사용자 인터페이스 [org.eclipse.ui.net 1.5.200.v20231106-1240]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.200.v20231106-1240]
+Warning: NLS unused message: actions_navigator__objects in: org.jkiss.dbeaver.ui.editors.sql.internal.SQLEditorMessages
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.125.202402181738]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.162.202402181738]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.131.202402181738]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.14.100.202311222042]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.16.0.202311222042]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.85.202402181738]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.85.202402181738]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.18.202402181738]
+> Start DBeaver Oracle Model [org.jkiss.dbeaver.ext.oracle 2.1.210.202402181738]
+2024-05-14 09:57:46.628 - Connect with 'bebegiboo' (oracle_thin-18f1463ce62-58b7ebaac91030dc)
+2024-05-14 09:57:46.652 - Execution context opened (bebegiboo; Main; 0)
+2024-05-14 09:57:47.122 - Execution context opened (bebegiboo; Metadata; 1)
+2024-05-14 09:57:47.185 - Connected (oracle_thin-18f1463ce62-58b7ebaac91030dc, Oracle JDBC driver [23.2.0.0.0])
+> Start DBeaver Oracle UI [org.jkiss.dbeaver.ext.oracle.ui 1.0.112.202402181738]
+2024-05-14 09:57:49.378 - Open [https://dbeaver.io/product/version.xml]
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.101.202402181738]
+> Start 핵심 비교 지원 [org.eclipse.compare.core 3.8.300.v20231106-1240]
+> Start 콘솔 [org.eclipse.ui.console 3.13.100.v20230914-0751]
+Warning: NLS unused message: InputStreamMonitor_label in: org.eclipse.debug.internal.core.DebugCoreMessages
+Warning: NLS unused message: OutputStreamMonitor_label in: org.eclipse.debug.internal.core.DebugCoreMessages
+> Start 디버그 핵심 [org.eclipse.debug.core 3.21.200.v20231021-1513]
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.103.202402181738]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.103.202402181738]
+2024-05-14 09:58:02.539 - Execution context opened (bebegiboo; SQLEditor <semiProjectDB계정생성.sql>; 2)
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.20.202402181738]
+2024-05-14 10:02:29.202 - Can't get column 'PLUGGED_IN': ORA-17006: 열 이름이 부적합합니다.
+2024-05-14 10:02:57.019 - java.lang.UnsupportedOperationException: Symbol already classified
+java.lang.UnsupportedOperationException: Symbol already classified
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setSymbolClass(SQLQuerySymbol.java:49)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setDefinition(SQLQuerySymbol.java:70)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsNaturalJoinModel.propagateContextImpl(SQLQueryRowsNaturalJoinModel.java:76)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsProjectionModel.propagateContextImpl(SQLQueryRowsProjectionModel.java:97)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQuerySelectionModel.propagateContex(SQLQuerySelectionModel.java:58)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:625)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:408)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:71)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-14 10:03:17.631 - java.lang.UnsupportedOperationException: Symbol already classified
+java.lang.UnsupportedOperationException: Symbol already classified
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setSymbolClass(SQLQuerySymbol.java:49)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setDefinition(SQLQuerySymbol.java:70)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsNaturalJoinModel.propagateContextImpl(SQLQueryRowsNaturalJoinModel.java:76)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsProjectionModel.propagateContextImpl(SQLQueryRowsProjectionModel.java:97)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQuerySelectionModel.propagateContex(SQLQuerySelectionModel.java:58)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:625)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:408)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:71)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-14 11:27:38.893 - Can't get column 'EXTERNAL_NAME': ORA-17006: 열 이름이 부적합합니다.
+2024-05-14 11:27:38.893 - Can't get column 'ACCOUNT_STATUS': ORA-17006: 열 이름이 부적합합니다.
+2024-05-14 11:27:38.893 - Can't get column 'LOCK_DATE': ORA-17006: 열 이름이 부적합합니다.
+2024-05-14 11:27:38.893 - Can't get column 'EXPIRY_DATE': ORA-17006: 열 이름이 부적합합니다.
+2024-05-14 11:27:38.893 - Can't get column 'DEFAULT_TABLESPACE': ORA-17006: 열 이름이 부적합합니다.
+2024-05-14 11:27:38.893 - Can't get column 'TEMPORARY_TABLESPACE': ORA-17006: 열 이름이 부적합합니다.
+2024-05-14 11:27:38.893 - Can't get column 'PROFILE': ORA-17006: 열 이름이 부적합합니다.
+2024-05-14 11:27:38.893 - Can't get column 'INITIAL_RSRC_CONSUMER_GROUP': ORA-17006: 열 이름이 부적합합니다.
+2024-05-14 14:01:07.504 - System suspend detected! Reinitialize all remote connections.
+2024-05-14 14:01:07.511 - Error closing connection
+java.sql.SQLRecoverableException: ORA-17002: IO 오류: Connection reset by peer
+	at oracle.jdbc.driver.T4CConnection.logoff(T4CConnection.java:2079)
+	at oracle.jdbc.driver.PhysicalConnection.close(PhysicalConnection.java:2954)
+	at oracle.jdbc.driver.T4CConnection.close(T4CConnection.java:11659)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.lambda$0(JDBCDataSource.java:368)
+	at org.jkiss.dbeaver.utils.RuntimeUtils$MonitoringTask.run(RuntimeUtils.java:722)
+	at org.jkiss.dbeaver.utils.RuntimeUtils$1.run(RuntimeUtils.java:264)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(Unknown Source)
+	at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(Unknown Source)
+	at java.base/sun.nio.ch.IOUtil.write(Unknown Source)
+	at java.base/sun.nio.ch.IOUtil.write(Unknown Source)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(Unknown Source)
+	at oracle.net.nt.TimeoutSocketChannel.writeToSocket(TimeoutSocketChannel.java:777)
+	at oracle.net.nt.TimeoutSocketChannel.write(TimeoutSocketChannel.java:546)
+	at oracle.net.ns.NIOPacket.writeToSocketChannel(NIOPacket.java:372)
+	at oracle.net.ns.NIONSDataChannel.writeDataToSocketChannel(NIONSDataChannel.java:197)
+	at oracle.jdbc.driver.T4CMAREngineNIO.flush(T4CMAREngineNIO.java:832)
+	at oracle.jdbc.driver.T4CMAREngineNIO.flush(T4CMAREngineNIO.java:789)
+	at oracle.jdbc.driver.T4CMAREngineNIO.prepareForUnmarshall(T4CMAREngineNIO.java:863)
+	at oracle.jdbc.driver.T4CMAREngineNIO.unmarshalUB1(T4CMAREngineNIO.java:446)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:888)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C7Ocommoncall.doOLOGOFF(T4C7Ocommoncall.java:69)
+	at oracle.jdbc.driver.T4CConnection.logoff(T4CConnection.java:2069)
+	... 7 more
+2024-05-14 14:01:07.520 - Execution context closed (bebegiboo, 0)
+2024-05-14 14:01:07.521 - Error closing connection
+java.sql.SQLRecoverableException: ORA-17002: IO 오류: Connection reset by peer
+	at oracle.jdbc.driver.T4CConnection.logoff(T4CConnection.java:2079)
+	at oracle.jdbc.driver.PhysicalConnection.close(PhysicalConnection.java:2954)
+	at oracle.jdbc.driver.T4CConnection.close(T4CConnection.java:11659)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.lambda$0(JDBCDataSource.java:368)
+	at org.jkiss.dbeaver.utils.RuntimeUtils$MonitoringTask.run(RuntimeUtils.java:722)
+	at org.jkiss.dbeaver.utils.RuntimeUtils$1.run(RuntimeUtils.java:264)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(Unknown Source)
+	at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(Unknown Source)
+	at java.base/sun.nio.ch.IOUtil.write(Unknown Source)
+	at java.base/sun.nio.ch.IOUtil.write(Unknown Source)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(Unknown Source)
+	at oracle.net.nt.TimeoutSocketChannel.writeToSocket(TimeoutSocketChannel.java:777)
+	at oracle.net.nt.TimeoutSocketChannel.write(TimeoutSocketChannel.java:546)
+	at oracle.net.ns.NIOPacket.writeToSocketChannel(NIOPacket.java:372)
+	at oracle.net.ns.NIONSDataChannel.writeDataToSocketChannel(NIONSDataChannel.java:197)
+	at oracle.jdbc.driver.T4CMAREngineNIO.flush(T4CMAREngineNIO.java:832)
+	at oracle.jdbc.driver.T4CMAREngineNIO.flush(T4CMAREngineNIO.java:789)
+	at oracle.jdbc.driver.T4CMAREngineNIO.prepareForUnmarshall(T4CMAREngineNIO.java:863)
+	at oracle.jdbc.driver.T4CMAREngineNIO.unmarshalUB1(T4CMAREngineNIO.java:446)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:888)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C7Ocommoncall.doOLOGOFF(T4C7Ocommoncall.java:69)
+	at oracle.jdbc.driver.T4CConnection.logoff(T4CConnection.java:2069)
+	... 7 more
+2024-05-14 14:01:07.531 - Execution context closed (bebegiboo, 1)
+2024-05-14 14:01:07.532 - Error closing connection
+java.sql.SQLRecoverableException: ORA-17002: IO 오류: Connection reset by peer
+	at oracle.jdbc.driver.T4CConnection.logoff(T4CConnection.java:2079)
+	at oracle.jdbc.driver.PhysicalConnection.close(PhysicalConnection.java:2954)
+	at oracle.jdbc.driver.T4CConnection.close(T4CConnection.java:11659)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.lambda$0(JDBCDataSource.java:368)
+	at org.jkiss.dbeaver.utils.RuntimeUtils$MonitoringTask.run(RuntimeUtils.java:722)
+	at org.jkiss.dbeaver.utils.RuntimeUtils$1.run(RuntimeUtils.java:264)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(Unknown Source)
+	at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(Unknown Source)
+	at java.base/sun.nio.ch.IOUtil.write(Unknown Source)
+	at java.base/sun.nio.ch.IOUtil.write(Unknown Source)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(Unknown Source)
+	at oracle.net.nt.TimeoutSocketChannel.writeToSocket(TimeoutSocketChannel.java:777)
+	at oracle.net.nt.TimeoutSocketChannel.write(TimeoutSocketChannel.java:546)
+	at oracle.net.ns.NIOPacket.writeToSocketChannel(NIOPacket.java:372)
+	at oracle.net.ns.NIONSDataChannel.writeDataToSocketChannel(NIONSDataChannel.java:197)
+	at oracle.jdbc.driver.T4CMAREngineNIO.flush(T4CMAREngineNIO.java:832)
+	at oracle.jdbc.driver.T4CMAREngineNIO.flush(T4CMAREngineNIO.java:789)
+	at oracle.jdbc.driver.T4CMAREngineNIO.prepareForUnmarshall(T4CMAREngineNIO.java:863)
+	at oracle.jdbc.driver.T4CMAREngineNIO.unmarshalUB1(T4CMAREngineNIO.java:446)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:888)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C7Ocommoncall.doOLOGOFF(T4C7Ocommoncall.java:69)
+	at oracle.jdbc.driver.T4CConnection.logoff(T4CConnection.java:2069)
+	... 7 more
+2024-05-14 14:01:07.542 - Execution context closed (bebegiboo, 2)
+2024-05-14 14:01:07.542 - Disconnected (oracle_thin-18f1463ce62-58b7ebaac91030dc)
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.116.202402181738]
+2024-05-14 14:05:25.811 - Connect with 'bebegiboo' (oracle_thin-18f1463ce62-58b7ebaac91030dc)
+2024-05-14 14:05:25.811 - Execution context opened (bebegiboo; Main; 3)
+2024-05-14 14:05:25.847 - Execution context opened (bebegiboo; Metadata; 4)
+2024-05-14 14:05:25.906 - Connected (oracle_thin-18f1463ce62-58b7ebaac91030dc, Oracle JDBC driver [23.2.0.0.0])
+2024-05-14 14:05:25.916 - Execution context opened (bebegiboo; SQLEditor <semiProjectDB계정생성.sql>; 5)
+2024-05-14 15:18:09.268 - Execution context closed (bebegiboo, 3)
+2024-05-14 15:18:09.282 - Execution context closed (bebegiboo, 4)
+2024-05-14 15:18:09.295 - Execution context closed (bebegiboo, 5)
+2024-05-14 15:18:09.295 - Disconnected (oracle_thin-18f1463ce62-58b7ebaac91030dc)
+2024-05-14 16:35:29.080 - Connect with 'bebegiboo' (oracle_thin-18f1463ce62-58b7ebaac91030dc)
+2024-05-14 16:35:29.081 - Execution context opened (bebegiboo; Main; 6)
+2024-05-14 16:35:29.118 - Execution context opened (bebegiboo; Metadata; 7)
+2024-05-14 16:35:29.148 - Connected (oracle_thin-18f1463ce62-58b7ebaac91030dc, Oracle JDBC driver [23.2.0.0.0])
+2024-05-14 16:35:29.150 - Execution context opened (bebegiboo; SQLEditor <semiProjectDB계정생성.sql>; 8)
+2024-05-14 16:35:33.610 - java.lang.UnsupportedOperationException: Symbol already classified
+java.lang.UnsupportedOperationException: Symbol already classified
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setSymbolClass(SQLQuerySymbol.java:49)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setDefinition(SQLQuerySymbol.java:70)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsNaturalJoinModel.propagateContextImpl(SQLQueryRowsNaturalJoinModel.java:76)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsProjectionModel.propagateContextImpl(SQLQueryRowsProjectionModel.java:97)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQuerySelectionModel.propagateContex(SQLQuerySelectionModel.java:58)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:625)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:408)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:71)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-14 16:50:42.356 - java.lang.UnsupportedOperationException: Symbol already classified
+java.lang.UnsupportedOperationException: Symbol already classified
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setSymbolClass(SQLQuerySymbol.java:49)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setDefinition(SQLQuerySymbol.java:70)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsNaturalJoinModel.propagateContextImpl(SQLQueryRowsNaturalJoinModel.java:76)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsProjectionModel.propagateContextImpl(SQLQueryRowsProjectionModel.java:97)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQuerySelectionModel.propagateContex(SQLQuerySelectionModel.java:58)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:625)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:408)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:71)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-14 16:50:47.073 - java.lang.UnsupportedOperationException: Symbol already classified
+java.lang.UnsupportedOperationException: Symbol already classified
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setSymbolClass(SQLQuerySymbol.java:49)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setDefinition(SQLQuerySymbol.java:70)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsNaturalJoinModel.propagateContextImpl(SQLQueryRowsNaturalJoinModel.java:76)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsProjectionModel.propagateContextImpl(SQLQueryRowsProjectionModel.java:97)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQuerySelectionModel.propagateContex(SQLQuerySelectionModel.java:58)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:625)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:408)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:71)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-14 16:50:57.160 - java.lang.UnsupportedOperationException: Symbol already classified
+java.lang.UnsupportedOperationException: Symbol already classified
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setSymbolClass(SQLQuerySymbol.java:49)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setDefinition(SQLQuerySymbol.java:70)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsNaturalJoinModel.propagateContextImpl(SQLQueryRowsNaturalJoinModel.java:76)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsProjectionModel.propagateContextImpl(SQLQueryRowsProjectionModel.java:97)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQuerySelectionModel.propagateContex(SQLQuerySelectionModel.java:58)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:625)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:408)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:71)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-14 16:50:58.419 - SQL Error [923] [42000]: ORA-00923: FROM 키워드가 필요한 위치에 없습니다.
+
+
+Error position: line: 182 pos: 18
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [923] [42000]: ORA-00923: FROM 키워드가 필요한 위치에 없습니다.
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:963)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4134)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5148)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00923: FROM 키워드가 필요한 위치에 없습니다.
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:1050)
+	at oracle.jdbc.driver.OracleStatement.prepareDefineBufferAndExecute(OracleStatement.java:1318)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1197)
+	at oracle.jdbc.driver.OracleStatement.executeSQLSelect(OracleStatement.java:1721)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1518)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 923, Position : 18, SQL = SELECT next_img_no, Original SQL = SELECT next_img_no, Error Message = ORA-00923: FROM 키워드가 필요한 위치에 없습니다.
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 28 more
+2024-05-14 17:00:29.792 - java.lang.UnsupportedOperationException: Symbol already classified
+java.lang.UnsupportedOperationException: Symbol already classified
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setSymbolClass(SQLQuerySymbol.java:49)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setDefinition(SQLQuerySymbol.java:70)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsNaturalJoinModel.propagateContextImpl(SQLQueryRowsNaturalJoinModel.java:76)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsProjectionModel.propagateContextImpl(SQLQueryRowsProjectionModel.java:97)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQuerySelectionModel.propagateContex(SQLQuerySelectionModel.java:58)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:625)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:408)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:71)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-14 17:00:36.819 - java.lang.UnsupportedOperationException: Symbol already classified
+java.lang.UnsupportedOperationException: Symbol already classified
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setSymbolClass(SQLQuerySymbol.java:49)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setDefinition(SQLQuerySymbol.java:70)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsNaturalJoinModel.propagateContextImpl(SQLQueryRowsNaturalJoinModel.java:76)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsProjectionModel.propagateContextImpl(SQLQueryRowsProjectionModel.java:97)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQuerySelectionModel.propagateContex(SQLQuerySelectionModel.java:58)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:625)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:408)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:71)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-14 17:00:40.784 - SQL Error [4050] [42000]: ORA-04050: 부적절한 혹은 누락된 프로시저, 함수, 혹은 패키지명입니다
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [4050] [42000]: ORA-04050: 부적절한 혹은 누락된 프로시저, 함수, 혹은 패키지명입니다
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:963)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4134)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5148)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-04050: 부적절한 혹은 누락된 프로시저, 함수, 혹은 패키지명입니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1305)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1877)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1520)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 4050, Position : 13, SQL = DROP FUNCTION(NEXT_IMG_NO), Original SQL = DROP FUNCTION(NEXT_IMG_NO), Error Message = ORA-04050: 부적절한 혹은 누락된 프로시저, 함수, 혹은 패키지명입니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 26 more
+> Start DBeaver Data Transfer [org.jkiss.dbeaver.data.transfer 2.0.109.202402181738]
+2024-05-14 17:01:10.432 - org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [6550] [65000]: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.run(SQLQueryJob.java:239)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1305)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1877)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1520)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 7 more
+Caused by: Error : 6550, Position : 43, SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Original SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Error Message = ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 21 more
+2024-05-14 17:01:24.871 - org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [6550] [65000]: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.run(SQLQueryJob.java:239)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1305)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1877)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1520)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 7 more
+Caused by: Error : 6550, Position : 43, SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Original SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Error Message = ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 21 more
+2024-05-14 17:01:48.765 - SQL Error [904] [42000]: ORA-00904: "C_IMG_NEXT_NO": 부적합한 식별자
+
+
+Error position: line: 197 pos: 7
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [904] [42000]: ORA-00904: "C_IMG_NEXT_NO": 부적합한 식별자
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:963)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4134)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5148)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00904: "C_IMG_NEXT_NO": 부적합한 식별자
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:1050)
+	at oracle.jdbc.driver.OracleStatement.prepareDefineBufferAndExecute(OracleStatement.java:1318)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1197)
+	at oracle.jdbc.driver.OracleStatement.executeSQLSelect(OracleStatement.java:1721)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1518)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 904, Position : 7, SQL = SELECT C_IMG_NEXT_NO FROM DUAL, Original SQL = SELECT C_IMG_NEXT_NO FROM DUAL, Error Message = ORA-00904: "C_IMG_NEXT_NO": 부적합한 식별자
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 28 more
+2024-05-14 17:02:48.311 - Can't get column 'COLUMN_NAMES_NUMS': ORA-17006: 열 이름이 부적합합니다.
+2024-05-14 17:03:20.049 - SQL Error [904] [42000]: ORA-00904: "SEQUENCE": 부적합한 식별자
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [904] [42000]: ORA-00904: "SEQUENCE": 부적합한 식별자
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:963)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4134)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5148)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00904: "SEQUENCE": 부적합한 식별자
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:1050)
+	at oracle.jdbc.driver.OracleStatement.prepareDefineBufferAndExecute(OracleStatement.java:1318)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1197)
+	at oracle.jdbc.driver.OracleStatement.executeSQLSelect(OracleStatement.java:1721)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1518)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 904, Position : 7, SQL = SELECT SEQUENCE FROM DUAL, Original SQL = SELECT SEQUENCE FROM DUAL, Error Message = ORA-00904: "SEQUENCE": 부적합한 식별자
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 28 more
+2024-05-14 17:06:16.993 - SQL Error [6575] [65000]: ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [6575] [65000]: ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:963)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4134)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5148)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:1050)
+	at oracle.jdbc.driver.OracleStatement.prepareDefineBufferAndExecute(OracleStatement.java:1318)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1197)
+	at oracle.jdbc.driver.OracleStatement.executeSQLSelect(OracleStatement.java:1721)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1518)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 6575, Position : 7, SQL = SELECT NEXT_IMG_NO FROM DUAL, Original SQL = SELECT NEXT_IMG_NO FROM DUAL, Error Message = ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 28 more
+2024-05-14 17:06:32.103 - org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [6550] [65000]: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.run(SQLQueryJob.java:239)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1305)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1877)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1520)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 7 more
+Caused by: Error : 6550, Position : 43, SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Original SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Error Message = ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 21 more
+2024-05-14 17:08:13.164 - SQL Error [2277] [42000]: ORA-02277: 시퀀스명이 부적합합니다
+
+
+Error position: line: 153 pos: 14
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [2277] [42000]: ORA-02277: 시퀀스명이 부적합합니다
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:963)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4134)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5148)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-02277: 시퀀스명이 부적합합니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1305)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1877)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1520)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 2277, Position : 14, SQL = DROP SEQUENCE 'SEQ_C_IMG_NO', Original SQL = DROP SEQUENCE 'SEQ_C_IMG_NO', Error Message = ORA-02277: 시퀀스명이 부적합합니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 26 more
+2024-05-14 17:09:01.816 - SQL Error [2277] [42000]: ORA-02277: 시퀀스명이 부적합합니다
+
+
+Error position: line: 153 pos: 14
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [2277] [42000]: ORA-02277: 시퀀스명이 부적합합니다
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:963)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4134)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5148)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-02277: 시퀀스명이 부적합합니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1305)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1877)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1520)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 2277, Position : 14, SQL = DROP SEQUENCE 'SEQ_C_IMG_NO', Original SQL = DROP SEQUENCE 'SEQ_C_IMG_NO', Error Message = ORA-02277: 시퀀스명이 부적합합니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 26 more
+2024-05-14 17:10:00.429 - org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [6550] [65000]: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.run(SQLQueryJob.java:239)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1305)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1877)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1520)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 7 more
+Caused by: Error : 6550, Position : 43, SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Original SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Error Message = ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 21 more
+2024-05-14 17:10:12.119 - org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [6550] [65000]: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.run(SQLQueryJob.java:239)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1305)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1877)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1520)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 7 more
+Caused by: Error : 6550, Position : 43, SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Original SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Error Message = ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 21 more
+2024-05-14 17:10:29.982 - SQL Error [904] [42000]: ORA-00904: "C_IMG_NEXT_NO": 부적합한 식별자
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [904] [42000]: ORA-00904: "C_IMG_NEXT_NO": 부적합한 식별자
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:963)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4134)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5148)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00904: "C_IMG_NEXT_NO": 부적합한 식별자
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:1050)
+	at oracle.jdbc.driver.OracleStatement.prepareDefineBufferAndExecute(OracleStatement.java:1318)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1197)
+	at oracle.jdbc.driver.OracleStatement.executeSQLSelect(OracleStatement.java:1721)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1518)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 904, Position : 7, SQL = SELECT C_IMG_NEXT_NO FROM DUAL, Original SQL = SELECT C_IMG_NEXT_NO FROM DUAL, Error Message = ORA-00904: "C_IMG_NEXT_NO": 부적합한 식별자
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 28 more
+2024-05-14 17:11:44.421 - java.lang.UnsupportedOperationException: Symbol already classified
+java.lang.UnsupportedOperationException: Symbol already classified
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setSymbolClass(SQLQuerySymbol.java:49)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQuerySymbol.setDefinition(SQLQuerySymbol.java:70)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsNaturalJoinModel.propagateContextImpl(SQLQueryRowsNaturalJoinModel.java:76)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsProjectionModel.propagateContextImpl(SQLQueryRowsProjectionModel.java:97)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQueryRowsSourceModel.propagateContext(SQLQueryRowsSourceModel.java:48)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.model.SQLQuerySelectionModel.propagateContex(SQLQuerySelectionModel.java:58)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:625)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:408)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:71)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-14 17:12:28.533 - SQL Error [904] [42000]: ORA-00904: "SEQUENCE": 부적합한 식별자
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [904] [42000]: ORA-00904: "SEQUENCE": 부적합한 식별자
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:963)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4134)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5148)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00904: "SEQUENCE": 부적합한 식별자
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:1050)
+	at oracle.jdbc.driver.OracleStatement.prepareDefineBufferAndExecute(OracleStatement.java:1318)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1197)
+	at oracle.jdbc.driver.OracleStatement.executeSQLSelect(OracleStatement.java:1721)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1518)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 904, Position : 7, SQL = SELECT SEQUENCE FROM DUAL, Original SQL = SELECT SEQUENCE FROM DUAL, Error Message = ORA-00904: "SEQUENCE": 부적합한 식별자
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 28 more
+2024-05-14 17:13:27.435 - SQL Error [6575] [65000]: ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [6575] [65000]: ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:963)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4134)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5148)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:1050)
+	at oracle.jdbc.driver.OracleStatement.prepareDefineBufferAndExecute(OracleStatement.java:1318)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1197)
+	at oracle.jdbc.driver.OracleStatement.executeSQLSelect(OracleStatement.java:1721)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1518)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 6575, Position : 7, SQL = SELECT NEXT_IMG_NO() FROM DUAL, Original SQL = SELECT NEXT_IMG_NO() FROM DUAL, Error Message = ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 28 more
+2024-05-14 17:14:29.655 - org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [6550] [65000]: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.run(SQLQueryJob.java:239)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1305)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1877)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1520)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 7 more
+Caused by: Error : 6550, Position : 43, SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Original SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Error Message = ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 21 more
+2024-05-14 17:15:19.543 - org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [6550] [65000]: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.run(SQLQueryJob.java:239)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1305)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1877)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1520)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 7 more
+Caused by: Error : 6550, Position : 43, SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Original SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Error Message = ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 21 more
+2024-05-14 17:15:40.099 - org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [6550] [65000]: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.run(SQLQueryJob.java:239)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1305)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1877)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1520)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 7 more
+Caused by: Error : 6550, Position : 43, SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Original SQL = BEGIN
+	SELECT SEQ_C_IMG_NO.NEXTVAL
+	INTO C_IMG_NEXT_NO
+	FROM DUAL;
+	RETURN C_IMG_NEXT_NO;
+END;, Error Message = ORA-06550: 줄 3, 열7:PLS-00201: 'C_IMG_NEXT_NO' 식별자가 정의되어야 합니다
+ORA-06550: 줄 4, 열2:PL/SQL: ORA-00904: : 부적합한 식별자
+ORA-06550: 줄 2, 열2:PL/SQL: SQL Statement ignored
+ORA-06550: 줄 5, 열2:PLS-00372: 프로시저, RETURN 문에 이 식을 나타날 수 없습니다
+ORA-06550: 줄 5, 열2:PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 21 more
+2024-05-14 17:15:50.746 - Connect with 'kh_jyh' (oracle_thin-18ec0a3a9d7-2e64f3068875cf7a)
+2024-05-14 17:15:50.747 - Execution context opened (kh_jyh; Main; 9)
+2024-05-14 17:15:50.806 - Execution context opened (kh_jyh; Metadata; 10)
+2024-05-14 17:15:50.860 - Connected (oracle_thin-18ec0a3a9d7-2e64f3068875cf7a, Oracle JDBC driver [23.2.0.0.0])
+2024-05-14 17:16:05.059 - Connect with 'spring_jyh' (oracle_thin-18ec0a5b15d-7dad129c1cfddb53)
+2024-05-14 17:16:05.060 - Execution context opened (spring_jyh; Main; 11)
+2024-05-14 17:16:05.083 - Execution context opened (spring_jyh; Metadata; 12)
+2024-05-14 17:16:05.102 - Connected (oracle_thin-18ec0a5b15d-7dad129c1cfddb53, Oracle JDBC driver [23.2.0.0.0])
+2024-05-14 17:16:05.112 - Execution context opened (spring_jyh; SQLEditor <board-boot.sql>; 13)
+2024-05-14 17:16:09.094 - Execution context closed (spring_jyh, 13)
+2024-05-14 17:20:49.752 - org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [6575] [65000]: ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.run(SQLQueryJob.java:239)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:1050)
+	at oracle.jdbc.driver.OracleStatement.prepareDefineBufferAndExecute(OracleStatement.java:1318)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1197)
+	at oracle.jdbc.driver.OracleStatement.executeSQLSelect(OracleStatement.java:1721)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1518)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 7 more
+Caused by: Error : 6575, Position : 7, SQL = SELECT NEXT_IMG_NO() FROM DUAL, Original SQL = SELECT NEXT_IMG_NO() FROM DUAL, Error Message = ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 23 more
+2024-05-14 17:21:10.335 - SQL Error [6575] [65000]: ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [6575] [65000]: ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:963)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4134)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5148)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:1050)
+	at oracle.jdbc.driver.OracleStatement.prepareDefineBufferAndExecute(OracleStatement.java:1318)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1197)
+	at oracle.jdbc.driver.OracleStatement.executeSQLSelect(OracleStatement.java:1721)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1518)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 6575, Position : 7, SQL = SELECT NEXT_IMG_NO() FROM DUAL, Original SQL = SELECT NEXT_IMG_NO() FROM DUAL, Error Message = ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 28 more
+2024-05-14 17:22:18.342 - SQL Error [904] [42000]: ORA-00904: "NEXT__IMG_NO": 부적합한 식별자
+
+
+Error position: line: 211 pos: 7
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [904] [42000]: ORA-00904: "NEXT__IMG_NO": 부적합한 식별자
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:963)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4134)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5148)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00904: "NEXT__IMG_NO": 부적합한 식별자
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:1050)
+	at oracle.jdbc.driver.OracleStatement.prepareDefineBufferAndExecute(OracleStatement.java:1318)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1197)
+	at oracle.jdbc.driver.OracleStatement.executeSQLSelect(OracleStatement.java:1721)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1518)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 904, Position : 7, SQL = SELECT NEXT__IMG_NO() FROM DUAL, Original SQL = SELECT NEXT__IMG_NO() FROM DUAL, Error Message = ORA-00904: "NEXT__IMG_NO": 부적합한 식별자
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 28 more
+2024-05-14 17:22:22.500 - SQL Error [6575] [65000]: ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [6575] [65000]: ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:601)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:504)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:511)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:963)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4134)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5148)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:702)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:608)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1335)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:1041)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:443)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:533)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:176)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:1050)
+	at oracle.jdbc.driver.OracleStatement.prepareDefineBufferAndExecute(OracleStatement.java:1318)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1197)
+	at oracle.jdbc.driver.OracleStatement.executeSQLSelect(OracleStatement.java:1721)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1518)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:2557)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:2506)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:334)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+Caused by: Error : 6575, Position : 7, SQL = SELECT NEXT_IMG_NO() FROM DUAL, Original SQL = SELECT NEXT_IMG_NO() FROM DUAL, Error Message = ORA-06575: 패키지 또는 함수 NEXT_IMG_NO 은 부적당한 상태입니다
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:710)
+	... 28 more
+2024-05-14 17:29:09.266 - Execution context closed (bebegiboo, 8)
+2024-05-14 17:29:09.446 - DBeaver is stopping
+2024-05-14 17:29:09.447 - Stop instance server
+2024-05-14 17:29:10.451 - Instance server has been stopped
+2024-05-14 17:29:10.451 - DBeaver shutdown completed
